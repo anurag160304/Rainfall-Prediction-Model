@@ -115,8 +115,8 @@ To run this project on your local machine:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/anurag160304/Rain-Prediction-Model.git
-cd /anurag160304/Rain-Prediction-Model
+git clone https://github.com/anurag160304/Rainfall-Prediction-Model.git
+cd /anurag160304/Rainfall-Prediction-Model
 ```
 
 2. Install the required libraries:
@@ -130,7 +130,7 @@ cd /anurag160304/Rain-Prediction-Model
 3. Open the notebook:
 
 ```bash
-jupyter notebook Rain_prediction_Model.ipynb
+jupyter notebook Rainfall_prediction_Model.ipynb
 ```
 
 
