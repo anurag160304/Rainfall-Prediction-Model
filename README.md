@@ -115,8 +115,8 @@ To run this project on your local machine:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/anurag160304/Rain_Prediction_model.git
-cd /anurag160304/Rain_Prediction_model
+git clone https://github.com/anurag160304/Rain-Prediction-Model.git
+cd /anurag160304/Rain-Prediction-Model
 ```
 
 2. Install the required libraries:
